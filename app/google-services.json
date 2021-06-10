@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "385814098849",
+    "project_id": "splashscreen-1f597",
+    "storage_bucket": "splashscreen-1f597.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:385814098849:android:3da053e290c8950adc11e0",
+        "android_client_info": {
+          "package_name": "com.washingtoncodelab.splashscreen"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "385814098849-f5jor856urpuon5not46mij11apnrdgf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFQCQKFmbkgdGCO9F3c0Y6MROKGib4OsU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "385814098849-f5jor856urpuon5not46mij11apnrdgf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

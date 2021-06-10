@@ -7,9 +7,12 @@
         <entry key="app/src/main/res/layout/activity_home.xml" value="0.246875" />
         <entry key="app/src/main/res/layout/activity_login.xml" value="0.26197916666666665" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.26197916666666665" />
+        <entry key="app/src/main/res/layout/activity_reg.xml" value="0.26197916666666665" />
         <entry key="app/src/main/res/layout/fragment_1.xml" value="0.26197916666666665" />
         <entry key="app/src/main/res/layout/fragment_2.xml" value="0.26197916666666665" />
         <entry key="app/src/main/res/layout/fragment_3.xml" value="0.26197916666666665" />
+        <entry key="app/src/main/res/layout/fragment_login.xml" value="0.246875" />
+        <entry key="app/src/main/res/layout/fragment_reg.xml" value="0.246875" />
         <entry key="app/src/main/res/layout/fragment_view_pager.xml" value="0.26197916666666665" />
       </map>
     </option>
